@@ -11,6 +11,7 @@ This is your passport boilerplate.
 
 
 #### Setup your git repo
+0. Setup your `.env` file and add all the things you need! (look at mongoose movies for reference!)
 1. in the project root `git init`
 2. `git add .` to add all the starter code
 3. `git commit -m "setup boilerplate"` 
