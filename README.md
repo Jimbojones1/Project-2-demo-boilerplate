@@ -21,7 +21,7 @@ This is your passport boilerplate.
 7. `git pull origin master` If a screen pulls up asking you to do something just press `:q` and then `enter` (thats vim btw :) )
 8. `git push origin master`
 
-#### Setup your login
+#### Setup your login (THE APP WON'T WORK until you do, no VIEWS are setup, or the landing route)
 
 0. Setup your database connection string
 1. Then Setup Your User Model, 
