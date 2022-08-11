@@ -1,3 +1,5 @@
+// load the env consts
+require('dotenv').config();
 const express = require('express');
 const path = require('path');
 const logger = require('morgan');
@@ -7,8 +9,7 @@ const session = require('express-session');
 const passport = require('passport');
 const methodOverride = require('method-override');
 const indexRoutes = require('./routes/index');
-// load the env consts
-require('dotenv').config();
+
 
 // create the Express app
 const app = express();
