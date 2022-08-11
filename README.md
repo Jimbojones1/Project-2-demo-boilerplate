@@ -18,8 +18,8 @@ This is your passport boilerplate.
 4. go to github and create your github and create a repo (Without a readme or liscense you can add that later!)
 5. copy the remote address
 6. In your terminal add the remote `git remote add origin yourGithubRepo'sAddressGoesHere`
-7. `git pull origin master` If a screen pulls up asking you to do something just press `:q` and then `enter` (thats vim btw :) )
-8. `git push origin master`
+7. `git pull origin main` If a screen pulls up asking you to do something just press `:q` and then `enter` (thats vim btw :) )
+8. `git push origin main`
 
 #### Setup your login (THE APP WON'T WORK until you do, no VIEWS are setup, or the landing route)
 
